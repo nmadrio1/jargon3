@@ -9,10 +9,12 @@
 </head>
 <body>
 
+
     <nav>
   
     </nav>
     <header class="main-page-header">
- 
+    <img src="<?php get_template_directory_uri().'/assets/images/main-page-headerx420.jpg'?>" alt="">
+    <img src="http://www.webinstitutoratwork.com/labthree/wp-content/uploads/2019/10/main-page-headerx1200.jpg" alt="">
     </header>
 
